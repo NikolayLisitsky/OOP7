@@ -1,0 +1,264 @@
+Murder --------
+Attacker: ork NPC_0 0 99
+Killed: ork NPC_44 40 25
+
+Murder --------
+Attacker: bear NPC_1 21 47
+Killed: ork NPC_41 18 62
+
+Murder --------
+Attacker: wandering_knight NPC_3 76 16
+Killed: ork NPC_6 47 17
+
+Murder --------
+Attacker: ork NPC_4 65 26
+Killed: bear NPC_35 85 54
+
+Murder --------
+Attacker: bear NPC_13 13 9
+Killed: bear NPC_2 9 9
+
+Murder --------
+Attacker: bear NPC_13 11 0
+Killed: bear NPC_34 4 9
+
+Murder --------
+Attacker: wandering_knight NPC_14 83 0
+Killed: bear NPC_11 51 99
+
+Murder --------
+Attacker: bear NPC_15 33 71
+Killed: wandering_knight NPC_43 27 22
+
+Murder --------
+Attacker: ork NPC_18 99 44
+Killed: bear NPC_23 39 12
+
+Murder --------
+Attacker: ork NPC_18 99 0
+Killed: bear NPC_31 1 22
+
+Murder --------
+Attacker: ork NPC_20 16 17
+Killed: wandering_knight NPC_36 57 34
+
+Murder --------
+Attacker: ork NPC_20 0 50
+Killed: wandering_knight NPC_37 4 60
+
+Murder --------
+Attacker: bear NPC_22 37 13
+Killed: bear NPC_46 29 39
+
+Murder --------
+Attacker: bear NPC_26 95 82
+Killed: ork NPC_42 14 63
+
+Murder --------
+Attacker: bear NPC_31 13 28
+Killed: ork NPC_18 55 42
+
+Murder --------
+Attacker: bear NPC_35 87 38
+Killed: ork NPC_4 68 99
+
+Murder --------
+Attacker: wandering_knight NPC_36 34 74
+Killed: ork NPC_20 17 53
+
+Murder --------
+Attacker: wandering_knight NPC_36 27 33
+Killed: bear NPC_22 88 2
+
+Murder --------
+Attacker: wandering_knight NPC_37 45 78
+Killed: ork NPC_20 64 18
+
+Murder --------
+Attacker: ork NPC_38 47 98
+Killed: ork NPC_30 56 81
+
+Murder --------
+Attacker: ork NPC_45 82 75
+Killed: bear NPC_39 73 38
+
+Murder --------
+Attacker: bear NPC_46 1 99
+Killed: ork NPC_18 91 89
+
+Murder --------
+Attacker: ork NPC_47 99 80
+Killed: ork NPC_38 87 84
+
+Murder --------
+Attacker: ork NPC_0 65 0
+Killed: wandering_knight NPC_33 49 73
+
+Murder --------
+Attacker: bear NPC_1 73 9
+Killed: wandering_knight NPC_17 73 75
+
+Murder --------
+Attacker: bear NPC_2 81 50
+Killed: bear NPC_34 99 32
+
+Murder --------
+Attacker: bear NPC_13 33 16
+Killed: bear NPC_2 72 49
+
+Murder --------
+Attacker: wandering_knight NPC_14 29 46
+Killed: ork NPC_10 31 62
+
+Murder --------
+Attacker: bear NPC_22 52 95
+Killed: bear NPC_46 41 68
+
+Murder --------
+Attacker: ork NPC_24 66 0
+Killed: ork NPC_0 27 0
+
+Murder --------
+Attacker: bear NPC_35 44 37
+Killed: bear NPC_49 4 96
+
+Murder --------
+Attacker: wandering_knight NPC_36 50 53
+Killed: ork NPC_12 99 0
+
+Murder --------
+Attacker: ork NPC_40 40 26
+Killed: bear NPC_39 58 12
+
+Murder --------
+Attacker: bear NPC_2 70 65
+Killed: ork NPC_45 52 41
+
+Murder --------
+Attacker: wandering_knight NPC_3 27 64
+Killed: ork NPC_9 27 45
+
+Murder --------
+Attacker: ork NPC_10 9 20
+Killed: wandering_knight NPC_3 56 99
+
+Murder --------
+Attacker: bear NPC_13 28 53
+Killed: bear NPC_2 78 64
+
+Murder --------
+Attacker: bear NPC_13 18 96
+Killed: wandering_knight NPC_37 99 99
+
+Murder --------
+Attacker: bear NPC_13 7 95
+Killed: ork NPC_45 65 19
+
+Murder --------
+Attacker: wandering_knight NPC_17 14 65
+Killed: bear NPC_22 43 41
+
+Murder --------
+Attacker: wandering_knight NPC_17 28 11
+Killed: wandering_knight NPC_36 22 83
+
+Murder --------
+Attacker: ork NPC_18 9 99
+Killed: bear NPC_22 82 12
+
+Murder --------
+Attacker: ork NPC_18 15 78
+Killed: wandering_knight NPC_36 51 85
+
+Murder --------
+Attacker: bear NPC_19 63 59
+Killed: bear NPC_35 0 67
+
+Murder --------
+Attacker: ork NPC_20 58 34
+Killed: wandering_knight NPC_37 57 16
+
+Murder --------
+Attacker: bear NPC_31 39 42
+Killed: wandering_knight NPC_25 91 0
+
+Murder --------
+Attacker: wandering_knight NPC_37 0 0
+Killed: bear NPC_13 14 78
+
+Murder --------
+Attacker: wandering_knight NPC_37 99 42
+Killed: ork NPC_20 35 99
+
+Murder --------
+Attacker: bear NPC_2 49 37
+Killed: ork NPC_9 43 99
+
+Murder --------
+Attacker: bear NPC_2 59 37
+Killed: bear NPC_13 22 82
+
+Murder --------
+Attacker: bear NPC_2 56 38
+Killed: ork NPC_45 5 24
+
+Murder --------
+Attacker: bear NPC_5 19 60
+Killed: bear NPC_1 2 10
+
+Murder --------
+Attacker: ork NPC_9 0 89
+Killed: bear NPC_2 42 38
+
+Murder --------
+Attacker: wandering_knight NPC_17 19 75
+Killed: wandering_knight NPC_36 28 41
+
+Murder --------
+Attacker: wandering_knight NPC_17 43 32
+Killed: wandering_knight NPC_37 8 39
+
+Murder --------
+Attacker: wandering_knight NPC_37 37 75
+Killed: wandering_knight NPC_36 5 54
+
+Murder --------
+Attacker: ork NPC_40 66 74
+Killed: wandering_knight NPC_14 22 99
+
+Murder --------
+Attacker: bear NPC_1 20 46
+Killed: bear NPC_5 34 71
+
+Murder --------
+Attacker: ork NPC_4 19 14
+Killed: wandering_knight NPC_48 16 19
+
+Murder --------
+Attacker: bear NPC_15 79 56
+Killed: ork NPC_47 0 70
+
+Murder --------
+Attacker: wandering_knight NPC_27 52 0
+Killed: wandering_knight NPC_37 43 76
+
+Murder --------
+Attacker: wandering_knight NPC_32 76 99
+Killed: bear NPC_28 73 46
+
+Murder --------
+Attacker: ork NPC_47 13 63
+Killed: bear NPC_15 47 8
+
+Murder --------
+Attacker: bear NPC_1 69 40
+Killed: wandering_knight NPC_37 49 99
+
+Murder --------
+Attacker: bear NPC_2 70 37
+Killed: wandering_knight NPC_33 0 84
+
+Murder --------
+Attacker: ork NPC_10 91 29
+Killed: ork NPC_47 71 99
+
