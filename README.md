@@ -6,28 +6,6 @@
 - **Странствующий Рыцарь** (Wandering Knight) - движение: 30, убийство: 10
 - **Медведь** (Bear) - движение: 5, убийство: 10
 
-## Структура проекта
-├── include/
-│ ├── npc.h # Базовый класс NPC
-│ ├── ork.h # Класс Орка
-│ ├── wandering_knight.h # Класс Странствующего Рыцаря
-│ ├── bear.h # Класс Медведя
-│ ├── editor.h # Утилиты для работы с NPC
-│ ├── fightManager.h # Менеджер боев
-│ └── utils.h # Вспомогательные функции
-├── src/
-│ ├── npc.cpp
-│ ├── ork.cpp
-│ ├── wandering_knight.cpp
-│ ├── bear.cpp
-│ ├── editor.cpp
-│ ├── fightManager.cpp
-│ └── utils.cpp
-├── test/
-│ └── test.cpp # Тесты
-├── main.cpp # Главная программа
-└── CMakeLists.txt # Файл сборки
-
 ## Сборка и запуск
 
 ### Требования
